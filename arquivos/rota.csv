@@ -1,0 +1,17 @@
+id,rota,get,post,patch,put,delete
+2833,aula,1,0,0,0,0
+2834,modulo,1,0,0,0,0
+2835,turma,1,0,0,0,0
+2836,usuario,1,0,0,0,0
+2837,aula/status,0,1,0,0,0
+2838,usuario/csv,0,1,0,0,0
+2839,aula,1,1,1,1,1
+2840,modulo,1,1,1,1,1
+2841,turma,1,1,1,1,1
+2842,usuario,1,1,1,1,1
+2843,arquivos,1,1,1,1,1
+2844,arquivos/*,1,1,1,1,1
+2845,arquivos:id,1,1,1,1,1
+2846,arquivos,1,0,0,0,0
+2847,arquivos/*,1,0,0,0,0
+2848,arquivos:id,1,0,0,0,0
